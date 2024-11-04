@@ -11,7 +11,7 @@ This application fetches and displays NASA's Astronomy Picture of the Day (APOD)
 # Setup
 ## Prerequisites
 - Node.js and npm installed.
-- A valid NASA APOD API key. You can obtain one here.
+- A valid NASA APOD API key. You can obtain one [here](https://api.nasa.gov/).
 
 ## Usage
 Upon loading, the app will:
