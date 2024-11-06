@@ -1,6 +1,8 @@
 # NASA APOD Viewer
 This application fetches and displays NASA's Astronomy Picture of the Day (APOD) along with the image title, date, and description. Users can view a high-definition image of the day and see detailed information in a sidebar. This project utilizes React and the NASA APOD API.
 
+- <p><img src="images/apod_img1.jpg" alt="first_img" width="800px"></p>
+- <p><img src="images/apod_img2.jpg" alt="second_img" width="800px"></p>
 ## Features
 - APOD Fetching: Retrieves the Astronomy Picture of the Day from the NASA API.
 - Caching: Caches the daily image to prevent redundant API calls within the same day.
